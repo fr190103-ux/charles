@@ -1,36 +1,36 @@
 {
   "radio": [
     {
-      "radio_name": "Dr Charles Stanley Radio",
-      "radio_genre": "Gospel Radio",
-      "radio_url": "https://26423.live.streamtheworld.com/ITRN.mp3",
-      "radio_image_url": "https://i.ibb.co/C6CbcnT/1721407596-charles-stanley.jpg",
-      "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
-      "blur_radio_background": "true",
+      "radio_name": "Radio refugio",
+      "radio_genre": "Sonando Ahora",
+      "radio_url": "https://stream.zeno.fm/6lkwhobohdhuv",
+      "radio_image_url": "https://i.ibb.co/PGL6NgHg/IMG-20260213-210737-512-x-512-p-xel.png",
+      "background_image_url": "https://alfasistemas.com/app/cristosana/radio-background.jpg",
+      "blur_radio_background": "false",
       "song_metadata": "true",
       "image_album_art": "true",
       "image_album_art_dynamic_background": "false",
-      "auto_play": "false"
+      "auto_play": "true"
     }
   ],
   "settings": [
     {
       "app_status": "1",
-      "privacy_policy_url": "https://sites.google.com/view/your-single-radio",
-      "more_apps_url": "https://codecanyon.net/category/mobile/android?sort=sales&term=solodroid#content",
+      "privacy_policy_url": "https://sites.google.com/view/as-privacidad",
+      "more_apps_url": "https://play.google.com/store/apps/developer?id=Alfa%20Sistemas",
       "redirect_url": ""
     }
   ],
   "ads": [
     {
-      "ad_status": "1",
+      "ad_status": "0",
       "ad_type": "admob",
       "backup_ads": "none",
-      "admob_publisher_id": "pub-3940256099942544",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
+      "admob_publisher_id": "pub-3940256598942544",
+      "admob_banner_unit_id": "ca-app-pub-3940256159942544/9213699741",
+      "admob_interstitial_unit_id": "ca-app-pub-3940259879942544/1033489712",
+      "admob_native_unit_id": "ca-app-pub-3940256047842544/2247369110",
+      "admob_app_open_ad_unit_id": "ca-app-pub-3940256099159544/9257326921",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -50,34 +50,29 @@
       "ironsource_app_key": "85460dcd",
       "ironsource_banner_placement_name": "DefaultBanner",
       "ironsource_interstitial_placement_name": "DefaultInterstitial",
-      "wortise_app_id": "test-app-id",
-      "wortise_banner_unit_id": "test-banner",
-      "wortise_interstitial_unit_id": "test-interstitial",
-      "wortise_native_unit_id": "test-native",
-      "wortise_app_open_ad_unit_id": "test-app-open",
       "interstitial_ad_interval": 2
     }
   ],
   "socials": [
     {
-      "social_name": "Website",
+      "social_name": "Sitio Web",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "https://www.solodroid.net"
+      "social_url": "https://radiocristosana.com/?target=external"
     },
     {
       "social_name": "Facebook",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
-      "social_url": "https://www.facebook.com/solodroid.net"
+      "social_url": "https://www.facebook.com/cristo.sana.94043/?target=external"
     },
     {
-      "social_name": "Twitter",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/twitter.png",
-      "social_url": "https://twitter.com/solodroiddev"
+      "social_name": "Compartir",
+      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/share.png",
+      "social_url": "https://api.whatsapp.com/send?text=Your%20Single%20Radio%0AI%20Would%20like%20to%20share%20this%20with%20you.%20Here%20You%20Can%20Download%20This%20Application%20from%20PlayStore%0Ahttps%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.app.yoursingleradio"
     },
     {
-      "social_name": "Instagram",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/instagram.png",
-      "social_url": "https://www.instagram.com/solodroid.developer"
+      "social_name": "WhatsApp",
+      "social_icon": "https://alfasistemas.com/app/pl/whatsapp.png",
+      "social_url": "https://wa.me/50585245049/?target=external"
     }
   ]
 }
